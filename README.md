@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Pramod</h1>
+<h1 align="center">Welcome to my tiny code space 😉</h1>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-🌱 **Tech Enthusiast**
-- 👀 I’m interested in old and new changes in the tech world while teaching my learnings
+🌱 **Little about me**
+- 👀 I’m a CS undergrad interested in old and new changes in the tech world while teaching my learnings
 - ⛓ Currently learning peer to peer networks
 - 📫 Reach me at [mail](mailto:scivjoy7@gmail.com)
   
